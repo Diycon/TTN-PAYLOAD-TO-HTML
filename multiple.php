@@ -1,8 +1,8 @@
 <?php include 'payload.php'; 
 
 // Settings for Chart.js
-// $t is the numbers of the lteste datapoints
-// Change $t to get more datapoint in the chart 
+// $t is the numbers of the latest datapoints
+// Change $t to get more datapoints in the chart 
 $t= 10; 
 ?>
 <html lang="en">
